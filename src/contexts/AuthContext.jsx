@@ -3,7 +3,6 @@ import { MOCK_USER } from '../data/mockData';
 
 const AuthContext = createContext();
 
-// Changed to named export
 export function AuthProvider({ children }) {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
