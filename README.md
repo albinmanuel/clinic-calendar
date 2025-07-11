@@ -4,12 +4,12 @@ A React-based clinic appointment management system with an interactive calendar 
 
 ## Demo Credentials
 
+```plaintext
 Email: staff@clinic.com
 Password: 123456
 
 
-Features
-___________
+## Features
 
 1.Authentication System
 
